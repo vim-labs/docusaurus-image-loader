@@ -1,0 +1,27 @@
+{
+  "name": "docusaurus-image-loader",
+  "version": "1.0.0",
+  "description": "A Docusaurus v2 plugin to support image files with a webpack url-loader and file-loader fallback.",
+  "main": "docusaurus-image-loader.js",
+  "dependencies": {
+    "file-loader": "^4.2.0",
+    "url-loader": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vim-labs/docusaurus-image-loader"
+  },
+  "keywords": [
+    "docusaurus",
+    "webpack"
+  ],
+  "author": "iRyanBell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vim-labs/docusaurus-image-loaderissues"
+  },
+  "homepage": "https://github.com/vim-labs/docusaurus-image-loader#readme"
+}
