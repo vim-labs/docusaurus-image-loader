@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-image-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Docusaurus v2 plugin to support image files with a webpack url-loader and file-loader fallback.",
   "main": "docusaurus-image-loader.js",
   "dependencies": {
